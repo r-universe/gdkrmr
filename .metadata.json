@@ -2,13 +2,5 @@
   {
     "package": "coRanking",
     "oncran": true
-  },
-  {
-    "package": "dimRed",
-    "oncran": true
-  },
-  {
-    "package": "DRR",
-    "oncran": true
   }
 ]
