@@ -1,14 +1,14 @@
 [
   {
-    "package": "DRR",
-    "oncran": true
-  },
-  {
     "package": "coRanking",
     "oncran": true
   },
   {
     "package": "dimRed",
+    "oncran": true
+  },
+  {
+    "package": "DRR",
     "oncran": true
   }
 ]
