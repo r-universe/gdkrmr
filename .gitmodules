@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "coRanking"]
 	path = coRanking
 	url = https://github.com/gdkrmr/coranking
-	shallow = true
-	registered = true
 [submodule "dimRed"]
 	path = dimRed
 	url = https://github.com/gdkrmr/dimred
-	shallow = true
-	registered = true
 [submodule "DRR"]
 	path = DRR
 	url = https://github.com/gdkrmr/drr
-	shallow = true
-	registered = true
