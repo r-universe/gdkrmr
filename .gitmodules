@@ -8,6 +8,3 @@
 [submodule "coRanking"]
 	path = coRanking
 	url = https://github.com/gdkrmr/coranking
-[submodule "dimRed"]
-	path = dimRed
-	url = https://github.com/gdkrmr/dimred
